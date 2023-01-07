@@ -1,0 +1,10 @@
+{
+    "carpintero": 5000,
+    "mecanico": 8000,
+    "electricista": 1000,
+    "fontanero": 10000,
+    "policia": 12000,
+    "doctor": 15000,
+    "informatico": 18000,
+    "ingeniero": 20000
+}

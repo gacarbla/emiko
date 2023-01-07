@@ -1,0 +1,21 @@
+{
+  "error": {
+    "estado": "on",
+    "motivo": ""
+  },
+  "bot": {
+    "estado": "on",
+    "motivo": ""
+  },
+  "mis": {
+    "estado": "on",
+    "motivo": ""
+  },
+  "lista": {
+    "estado": "on",
+    "motivo": ""
+  },
+  "nuevo": {
+    "estado": "on"
+  }
+}

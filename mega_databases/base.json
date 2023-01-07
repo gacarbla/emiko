@@ -1,0 +1,353 @@
+{
+  "animes": {
+    "lista": {
+      "letra": {
+        "O": [
+          "ONE PIECE",
+          "ONE PUNCH MAN"
+        ],
+        "A": [
+          "AMOR DE GATA",
+          "ANOHANA",
+          "ASSASINATION CLASSROOM"
+        ],
+        "Z": [
+          "ZENKI"
+        ],
+        "S": [
+          "SENPAI GA UZAI KOUHAI NO HANASHI",
+          "SHIN-CHAN",
+          "SHINGEKI NO KYOJIN",
+          "SWORD ART ONLINE"
+        ],
+        "M": [
+          "MI VECINO TOTORO"
+        ],
+        "D": [
+          "DARLING IN THE FRANXX",
+          "DEATH NOTE",
+          "DORAEMON",
+          "DRAGON BALL"
+        ],
+        "T": [
+          "TENKŪ SHINPAN",
+          "TOKYO GHOUL",
+          "TOKYO REVENGERS",
+          "TONIKAWA"
+        ],
+        "B": [
+          "BOKU NO HERO ACADEMIA"
+        ],
+        "Y": [
+          "YOUR LIE IN APRIL",
+          "YOUR NAME"
+        ],
+        "N": [
+          "NARUTO"
+        ],
+        "L": [
+          "LE VENT SE LÈVE"
+        ],
+        "K": [
+          "KARAKAI JOUZU NO TAKAGI-SAN"
+        ],
+        "P": [
+          "POKEMON"
+        ],
+        "R": [
+          "RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU"
+        ],
+        "J": [
+          "JOJO´S BIZARRE ADVENTURE"
+        ]
+      }
+    },
+    "info": {
+      "ONE PUNCH MAN": {
+        "portada": "https://as.com/meristation/imagenes/2020/04/21/noticias/1587500779_902675_1587500814_noticia_normal_recorte1.jpg",
+        "categories": [
+          "HUMOR",
+          "COMEDIA",
+          "SUPERHEROES",
+          "ACCIÓN"
+        ],
+        "sinopsis": "Saitama, un súperheroe que ha sobrepasado todos los límites humanos (Menos el de la inteligencia) lucha ahora contra el aburrimiento."
+      },
+      "ANOHANA": {
+        "portada": "https://filmfilicos.com/wp-content/uploads/2018/07/portada.png",
+        "categories": [
+          "TRISTE",
+          "AMISTAD",
+          "MAGIA"
+        ],
+        "sinopsis": "Un grupo de amigos de la infancia se separan debido a un trágico accidente (la muerte de su amiga, Menma) en el cual perdieron su amistad. Jinta deberá reunir a sus antiguos amigos de la infancia ya que esa amiga que perdieron regresa como un espíritu para cumplir una promesa que hizo antes de morir, esta misión revelara nuevos y viejos sentimientos en los personajes para conseguir ese único deseo."
+      },
+      "ZENKI": {
+        "portada": "https://www.koi-nya.net/img/subidos_posts/2018/05/fallece-el-dibujante-yoshihiro-kuroiwa-autor-de-kishin-douji-zenki.jpg",
+        "sinopsis": "En tiempos ancestrales, un demonio llamado Karuma intentó destruir el mundo por medio de sus semillas del mal. Ozunu Enno (役 小角, Enno Ozunu), logró controlar las semillas del mal a través de Zenki (前鬼), uno de los demonios, y el mundo volvió a la normalidad. Entonces el maestro Ozune selló a Zenki dentro de un pilar para controlar su descomunal sed de violencia y su salvajismo. Así, Zenki quedaría confinado al pilar por tiempo indefinido en espera del momento de que algún sucesor del maestro Enno rompiera el sello de Bayula y volviera a convocarlo a la lucha."
+      },
+      "SHINGEKI NO KYOJIN": {
+        "portada": "https://media.revistagq.com/photos/6061de8b7e6648d674c91a59/master/pass/attack%20on%20titan.jpeg",
+        "categories": [
+          "BÉLICO",
+          "FANTASÍA",
+          "SANGRIENTO"
+        ],
+        "sinopsis": "Un tiempo, antes, las personas fueron relativamente eliminadas por los titanes. Los jóvenes son increíblemente altos, parecen no tener idea, se comen a la gente y, para colmo, obviamente lo hacen por alegría en lugar de nutrirse. Un pequeño nivel de la humanidad hizo debido a encerrarse en una ciudad asegurada por divisores altos, considerablemente más altos que los titanes."
+      },
+      "MI VECINO TOTORO": {
+        "portada": "https://images-ext-1.discordapp.net/external/A1dziLOp65smGQH_3Cn7-sRg_sXVFFCjDA8kqFjRnxo/https/ponga-sirve.fun/xixzf/qMZFau7LZUA.jpeg",
+        "categories": [
+          "FAMILIAR",
+          "NIÑOS",
+          "FANTASÍA"
+        ],
+        "sinopsis": "Cuenta la historia de una familia y sus interacciones con un espíritu del bosque al que llaman «Totoro», en un Japón de la posguerra. Un profesor universitario y sus dos hijas, Satsuki y Mei, se trasladan a una antigua residencia rural para estar más cerca del hospital donde la madre de las niñas, se recupera de tuberculosis."
+      },
+      "DARLING IN THE FRANXX": {
+        "portada": "https://1.bp.blogspot.com/-hN51CADkNPU/WzBz_h-oXRI/AAAAAAAAFpo/9E51mp0_tlM_PRTvPybf8YvxESefmACkgCLcBGAs/s1600/Darling_in_the_FranXX_Portada.jpg",
+        "categories": [
+          "FANTASÍA",
+          "JUVENIL",
+          "VIOLENCIA"
+        ],
+        "sinopsis": "En un futuro distante, la última esperanza de la humanidad frente a los invasores klaxosaurios reside en la relación entre el niño piloto Hiro y la misteriosa Zero Two."
+      },
+      "TOKYO REVENGERS": {
+        "portada": "https://laverdadnoticias.com/__export/1626293744362/sites/laverdad/img/2021/07/14/tokyo_revengers_anime_guia_completa.jpg_2039590105.jpg",
+        "categories": [
+          "VIOLENCIA",
+          "LUCHA",
+          "BANDAS",
+          "JUVENIL"
+        ],
+        "sinopsis": "Un día, en las noticias, se entera de que la única novia que tuvo, Hinata Tachibana de la escuela secundaria, fue asesinada por la infame Tokyo Manji Gang. Para empeorar las cosas, el mismo día fue empujado a las vías del tren. Sin embargo, en lugar de morir, da un salto en el tiempo doce años hacia el pasado, cuando estaba en la escuela secundaria. Para salvar a Hinata y cambiar su propia vida, Takemichi debe ascender a la cima de la Tokyo Manji Gang."
+      },
+      "SENPAI GA UZAI KOUHAI NO HANASHI": {
+        "portada": "https://somoskudasai.net/wp-content/uploads/2021/04/portada_senpai-ga-uzai-kouhai-4.jpg",
+        "categories": [
+          "AMOR",
+          "SOFT",
+          "REALISTA"
+        ],
+        "sinopsis": "Futaba Igarashi es una joven trabajadora de oficina. Harumi Takeda, es un senpai que está por encima de ella en el trabajo, la molesta constantemente y, sin embargo, se encuentra cada vez más cerca de él."
+      },
+      "BOKU NO HERO ACADEMIA": {
+        "portada": "https://mondainai.moe/wp-content/uploads/2018/09/Boku-no-hero-01.jpg",
+        "categories": [
+          "SÚPER-HÉROES",
+          "FANTASÍA",
+          "JUVENIL",
+          "VIOLENCIA"
+        ],
+        "sinopsis": "Las personas no nacen igual. El protagonista de esta historia es uno de esos casos raros que nacen sin superpoderes, pero esto no le impedirá perseguir su sueño: ser un gran héroe como el legendario All-Might. Para convertirse en el héroe que quiere ser, se apuntará a una de las academias de héroes más prestigiosas del país: Yueiko. Con la ayuda de su ídolo, All-Might, ¿podrá convertirse en un verdadero héroe?"
+      },
+      "TOKYO GHOUL": {
+        "portada": "https://2.bp.blogspot.com/-se3quAMysig/W3Lm3seJCoI/AAAAAAAADhw/3saLD253leI-A-RTwHj5kWx6MRKz1CszwCLcBGAs/s1600/2231f283ec073daa47c691696d41b0fb.jpg",
+        "categories": [
+          "GORE",
+          "VIOLENCIA",
+          "SANGRE",
+          "JUVENIL",
+          "FANTASÍA"
+        ],
+        "sinopsis": "En Tokyo, acechan los ghouls, criaturas con aspecto humano que sólo pueden ingerir agua, café... y carne humana. Tras resultar gravemente herido, el joven universitario Kaneki recibe un trasplante de órganos de una ghoul que se encontraba con él en el momento del accidente. Convertido en el primer híbrido de humano y ghoul, Kaneki debe hacer frente a la necesidad de ingerir carne humana. Tras descubrir que la camarera de la cafetería que frecuenta,"
+      },
+      "ASSASINATION CLASSROOM": {
+        "portada": "https://img.moviesrankings.com/t/p/w1280/wdi9KP7dwvuCztaAawXNjDBdwGB.jpg",
+        "categories": [
+          "JUVENIL",
+          "VIOLENCIA",
+          "HUMOR",
+          "COMEDIA"
+        ],
+        "sinopsis": "La Tierra se ve amenazada por un poderoso monstruo que destruyó el 70% de la Luna con su poder, dejándola permanentemente en forma de cuarto creciente. El monstruo afirma que dentro de un año, la Tierra también será destruida por él, pero ofrece a la humanidad una oportunidad para evitar ese destino. Este mismo comienza a trabajar como maestro en la clase 3-E de la secundaria Kunugigaoka, cuyos estudiantes tienen el objetivo de asesinarlo. El gobierno japonés promete una recompensa de ¥10 billones (100 millones de dólares) a cualquiera de los estudiantes que logre matar al monstruo. Los estudiantes nombran al monstruo como \"Koro-sensei\". Sin embargo, estos pronto descubrirán que se enfrentan a una tarea casi imposible de realizar, en parte debido a que Koro-sensei no solo tiene varios superpoderes a su disposición —incluyendo la capacidad de moverse a una velocidad de mach 20— sino que también resulta ser el mejor maestro que han tenido en su vida, quien además de ayudarles a mejorar sus calificaciones también les ayuda a resolver sus problemas personales y perspectivas para el futuro."
+      },
+      "YOUR LIE IN APRIL": {
+        "portada": "https://wallpapercave.com/wp/wp6285601.jpg",
+        "categories": [
+          "AMOR",
+          "JUVENIL",
+          "TRISTE",
+          "MÚSICA"
+        ],
+        "sinopsis": "\"Your Lie in April\" trata de un chico, prodigio del piano, que no puede escuchar su música después de haber sufrido un trauma en el cual perdió a su madre y a su instructor de piano. Habiéndole sido arrebatadas ambas personas, la vida de Kousei Arima se torna monótona y sin sentido."
+      },
+      "DEATH NOTE": {
+        "portada": "https://www.anmosugoi.com/wp-content/uploads/2021/08/Death-note.jpg",
+        "categories": [
+          "GORE",
+          "VIOLENCIA",
+          "ASESINATOS"
+        ],
+        "sinopsis": "Light Yagami es un brillante estudiante japonés, aburrido y asqueado por la inmundicia de crímenes que cubre el mundo. Su vida cambiará por completo cuando se tope con un Death Note, un cuaderno que puede hacer que una persona muera tan sólo escribiendo su nombre y visualizando su rostro. Si no se especifica la causa de la muerte de la persona, ésta moriría de un ataque al corazón en 40 segundos."
+      },
+      "NARUTO": {
+        "portada": "https://th.bing.com/th/id/OIP.-m9CanEvOMzSliGOoG9OoQHaFb?pid=ImgDet&rs=1",
+        "categories": [
+          "ANIME TOP"
+        ],
+        "sinopsis": "Después de ser capturado por el intento de asesinar al líder de Kumogakure, el Raikage, y el asesinato de varios Jonin de Kirigakure e Iwagakure, Naruto es encarcelado en una instalación de contención penal también conocida como la prisión de la sangre."
+      },
+      "YOUR NAME": {
+        "portada": "https://th.bing.com/th/id/OIP.2DbodWoULwgdTh_c3I5X6AAAAA?pid=ImgDet&rs=1",
+        "categories": [
+          "AMOR",
+          "JUVENIL",
+          "MAGIA",
+          "PELÍCULA"
+        ],
+        "sinopsis": "Durante una noche de lluvia de estrellas, dos extraños -un adolescente de Tokio y una joven aburrida del Japón rural- descubren que sus cuerpos han sido intercambiados mientras dormían y compartían el mismo sueño. Ahora deben encontrarse antes de que se acabe el tiempo, a la vez que van aprendiendo de las lecciones que les deja vivir la vida de otra persona."
+      },
+      "AMOR DE GATA": {
+        "portada": "https://th.bing.com/th/id/R.348e90005d80571a896e971bef6c5eee?rik=JKYxO%2fIQw5bfSA&pid=ImgRaw&r=0",
+        "categories": [
+          "PELÍCULA",
+          "AMOR",
+          "INFANTIL",
+          "FANTASÍA"
+        ],
+        "sinopsis": "Sinopsis de 'Amor de gata' Amor de gata nos muestra a una chica que se transforma en un gato para llamar la atención del chico que le gusta. Sin darse cuenta, la línea entre lo humano y lo animal comienza a desdibujarse."
+      },
+      "LE VENT SE LÈVE": {
+        "portada": "https://www.netflix-news.com/wp-content/uploads/2020/04/AAAABbPNtXWxMeFgdhgiZgDeBS2svFatylBXcKhngKGKi7Wv3Y9CakuKJ0JjZaGWO1SVlVfJMQ1XxWW-ZLcFVkA2DIdgq8Ar.jpg",
+        "categories": [
+          "PELÍCULA",
+          "HISTÓRICO",
+          "REALISTA"
+        ],
+        "sinopsis": "Un joven niño que sueña con ser piloto se ve afectado pues no puede pilotar con sus gafas. En busca de cumplir su sueño de otra forma empieza su carrera como diseñador de aviones e intenta hacer el mejor avión del mundo a pesar de Japón estar poco desarrollado por aquel entonces."
+      },
+      "KARAKAI JOUZU NO TAKAGI-SAN": {
+        "portada": "https://th.bing.com/th/id/OIP.odql-fWoRpZSGbqRd2AqFAHaDn?pid=ImgDet&rs=1",
+        "categories": [
+          "AMOR",
+          "INFANTIL"
+        ],
+        "sinopsis": "\"¡Juro que hoy sí lograré avergonzar a Takagi-san!\". Nishikata es un estudiante de secundaria a quien su compañera y vecina en clase, Takagi-san, no deja de molestar y avergonzar en todo momento.Él intenta vengarse día tras día de ella, pero Takagi siempre parece ir un paso por delante. ¿Logrará hacer que sea ella la que se avergüence algún día? ¡La batalla de voluntades de juventud entre Nishikata y Takagi da comienzo!"
+      },
+      "TENKŪ SHINPAN": {
+        "portada": "https://th.bing.com/th/id/R.c7d9570a750d1c2bbc4d7677324dd5e5?rik=%2flWSAWutO8hd1Q&pid=ImgRaw&r=0",
+        "categories": [
+          "VIOLENCIA",
+          "ACCIÓN",
+          "JUVENIL"
+        ],
+        "sinopsis": "Yuri es una chica de Instituto que se encuentra de repente en la azotea de un edificio de gran altura. Yuri está atrapada en un extraño mundo rodeado de rascacielos, y entonces se encuentra con un sujeto enmascarado que sujeta un hacha en la mano y un hombre tirado en el suelo con la cabeza abierta. ¿Qué es este extraño mundo?. El solo medio seguro de desplazarse en esta ciudad hostil es de utilizar puentes, conectando los tejados de las fincas urbanas. Abandonar este mundo peligroso, encontrar su hermano y saber que son estos hombres enmascarados y porqué lo atacan resultan entonces ser las mayores preocupaciones de Yuri. Luego descubre que estos rascacielos y los hombres enmascarados están hechos para que las personas se suiciden saltando de los tejados."
+      },
+      "TONIKAWA": {
+        "portada": "https://th.bing.com/th/id/OIP.P5PVJy07y_t-CMo5uBfSLgHaDo?pid=ImgDet&rs=1",
+        "categories": [
+          "AMOR",
+          "JUVENIL",
+          "FANTASÍA"
+        ],
+        "sinopsis": "Nasa Yuzakies un joven que se esfuerza en la vida para librarse de la maldición de su nombre y cree que podrá con todo, pero el destino le juega una mala pasada al ver por la calle a una chica muy linda."
+      },
+      "DRAGON BALL": {
+        "portada": "https://xdeanime.com/wp-content/uploads/2020/10/Dragon-ball-Shonen-1024x576.jpg",
+        "categories": [
+          "ANIME TOP",
+          "VIOLENCIA",
+          "JUVENIL",
+          "CLÁSICO"
+        ],
+        "sinopsis": "Dragon Ball relata la historia de Son Goku, un niño que vive en el bosque. Goku no tiene amigos y vive solo hasta que una chica se encuentra con él. Ella está buscando un conjunto de Dragon Balls o Bolas de Dragon, objetos mágicos que se dice que conceden un deseo a cualquier ser vivo que logre hacerse con las 7."
+      },
+      "ONE PIECE": {
+        "portada": "https://xdeanime.com/wp-content/uploads/2020/10/One-piece-Shonen-1024x576.jpg",
+        "categories": [
+          "ANIME TOP",
+          "MUY EXTENSO",
+          "PIRATAS",
+          "AVENTURAS"
+        ],
+        "sinopsis": "One Piece es un gran y extenso anime con el que puedes quedarte pillado muy fácilmente. La serie comienza con el Rey Pirata revelando la existencia de One Piece, un tesoro que promete dar a su dueño una cantidad ilimitada de riqueza, fama y poder. Gol D. Roger lo revela antes de su ejecución. El anime narra la historia de Monkey D. Luffy, un adolescente que forma su tripulación pirata y viaja a través de Grand Line. A lo largo del anime vemos que Luffy y su tripulación luchan contra fuertes y poderosos enemigos y viven aventuras increíbles mientras se acercan al preciado tesoro."
+      },
+      "POKEMON": {
+        "portada": "https://xdeanime.com/wp-content/uploads/2020/10/pokemon-serie-anime-1024x512.jpg",
+        "categories": [
+          "ANIME TOP",
+          "CLÁSICO",
+          "AVENTURAS",
+          "FANTASÍA"
+        ],
+        "sinopsis": "La historia de Pokémon original se centra en Ash, un niño de 10 años que siempre ha soñado con convertirse en el mejor entrenador de Pokémon. Su sueño está a punto de hacerse realidad, pero cuando se dispone a conseguir su primer Pokémon para principiantes, ya se los han llevado todos. Bueno, todos excepto uno, un Pokémon eléctrico y muy rebelde llamado Pikachu. Poco después, Ash y Pikachu se hacen buenos amigos y emprenden un largo viaje para convertirse en los mejores y ser los más poderosos del mundo."
+      },
+      "SWORD ART ONLINE": {
+        "portada": "https://xdeanime.com/wp-content/uploads/2020/10/Sword-Art-Online-Shonen-1024x576.jpg",
+        "categories": [
+          "FANTASÍA",
+          "VIOLENCIA",
+          "MAGIA",
+          "TECNOLOGÍA"
+        ],
+        "sinopsis": "Sword Art Online relata la vida de un adolescente llamado Kirito, que se queda atascado en un enorme y futurista mmorpg llamado Sword Art Online. SAO es un mundo virtual repleto de armas medievales y poderosas criaturas. Parecía el inicio de una divertida aventura, hasta que se da cuenta de que no puede salir del juego hasta que complete los cien niveles del mismo. Además, si los jugadores fallecen en el mundo virtual, mueren también en realidad. Cuando hablamos de Sword Art Online, en realidad, estamos hablando de uno de los animes más vistos y épicos del género shonen."
+      },
+      "SHIN-CHAN": {
+        "portada": "https://docs.ficomic.com/IMAGES_27/shin-chan-logo1.png",
+        "categories": [
+          "INFANTIL",
+          "CLÁSICO",
+          "HUMOR",
+          "COMEDIA"
+        ],
+        "sinopsis": "Crayon Shin-chan (クレヨンしんちゃん Kureyon Shin-chan, también conocido y retitulado como Shin Chan en algunos mercados occidentales) es una serie de manga escrita e ilustrada por Yoshito Usui, centrada en la vida de Shinnosuke Nohara, un niño de cinco años particularmente travieso."
+      },
+      "DORAEMON": {
+        "portada": "https://laverdadnoticias.com/img/2020/11/16/doraemon-pelicula-anime-2021.jpg",
+        "categories": [
+          "INFANTIL",
+          "CLÁSICO",
+          "FAMILIAR"
+        ],
+        "sinopsis": "La historia comienza con un estudiante de escuela primaria, llamado Nobita Nobi, descansando en su habitación durante el año nuevo. De repente, una voz que parece venir de la nada advierte a Nobita sobre dos eventos que lo afectarán en los próximos minutos; el primero es quedar colgado en un árbol y el segundo es quedar tostado, respectivamente. Nobita toma tal predicción con mucho escepticismo hasta que un extraño ser de color azul aparece desde el cajón del escritorio, pero Nobita lo confunde por un perro mapache que se delata así mismo como el mensajero de hace unos momentos mientras menciona que a Nobita le espera un terrible futuro, se come los bocadillos de Nobita y se retira del lugar desde donde ingresó. Momentos después, un joven de apariencia similar a Nobita, aparece desde el mismo cajón del escritorio, pero Nobita está muy confundido y sin conocer todavía los detalles hasta que regresó el antes erróneamente denominado perro mapache. Ambos desconocidos se presentan como Sewashi Nobi y Doraemon, tataranieto de Nobita y un robot con forma de gato, respectivamente, y viajaron en el tiempo desde el siglo 22 para hablar con Nobita. Según Sewashi, Nobita padeció de mucha mala suerte incluso después de ser adulto y como presunta evidencia, Doraemon muestra un álbum con fotos de Nobita como adulto. No obstante, Nobita sigue sin creer lo que ocurre hasta el punto de enfurecerse y ahuyentando a Sewashi y Doraemon de su habitación. (...)"
+      },
+      "RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU": {
+        "portada": "https://th.bing.com/th/id/R.f149c87f78af69769d72c6ab40d57336?rik=cJk7LOnuvQrRVA&pid=ImgRaw&r=0",
+        "categories": [
+          "SIN CLASIFICAR"
+        ],
+        "sinopsis": "Subaru Natsuki es un hikikomori que saliendo de una tienda de conveniencia es transportado misteriosamente a un reino de otro mundo, donde lo primero que le ocurre es encontrarse con unos bandidos; sin embargo, lo rescata una hermosa chica semi-elfa de cabello plateado llamada \"Satella\". Como pago decide ayudarla con un problema que ignoró por ayudarle. Sin embargo, pronto la chica muere y el mismo Subaru es herido mortalmente cuando le dice: \"Te prometo que te salvaré\". Entonces, el chico muere pero de pronto el tiempo se rebobina y se encuentra en el mismo punto en el que comenzó, lo que nombra \"Retorno de la Muerte\". Sin embargo, al reencontrarse con \"Satella\" ella le reclama no llamarla como la Bruja de los Celos, por lo que allí es cuando, Subaru vuelve a querer ayudarla, pero confundido termina haciendo todo por su cuenta intentando salvar a la chica de su atacante, ¿Quien es \"Satella\"? ¿Por qué Subaru fue transportado a ese mundo? ¿Por qué solo él recuerda lo ocurrido en bucles anteriores? Él mismo tendrá que volver una y otra vez de la muerte para descubrirlo y además salvar a los que quiere con el poder otorgado por la Bruja, que quiere mantener sus retornos como un secreto entre ambos."
+      },
+      "JOJO´S BIZARRE ADVENTURE": {
+        "portada": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA04909_00/3/i_234022f07b9ee7aeb9dc1b171302e96788745a4bf543c5497d6fdf91a3e1aaa3/i/pic0.png",
+        "categories": [
+          "ACCIÓN",
+          "AVENTURAS",
+          "SHONEN",
+          "SEINEN"
+        ],
+        "sinopsis": "Hombres homosexuales mamadísimos luchan contra un vampiro metrosexual"
+      }
+    }
+  },
+  "registro": {
+    "643575943289634836": {
+      "animes": [
+        "DORAEMON",
+        "SHIN-CHAN",
+        "AMOR DE GATA",
+        "ANOHANA",
+        "ASSASINATION CLASSROOM",
+        "BOKU NO HERO ACADEMIA",
+        "DARLING IN THE FRANXX",
+        "DEATH NOTE",
+        "DRAGON BALL",
+        "KARAKAI JOUZU NO TAKAGI-SAN",
+        "LE VENT SE LÈVE",
+        "MI VECINO TOTORO",
+        "ONE PUNCH MAN",
+        "POKEMON",
+        "SENPAI GA UZAI KOUHAI NO HANASHI",
+        "SHINGEKI NO KYOJIN",
+        "TENKŪ SHINPAN",
+        "TOKYO GHOUL",
+        "TOKYO REVENGERS",
+        "TONIKAWA",
+        "YOUR LIE IN APRIL",
+        "YOUR NAME"
+      ]
+    }
+  }
+}

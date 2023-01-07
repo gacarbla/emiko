@@ -1,0 +1,208 @@
+{
+  "cajero_supermercado": {
+    "sueldo": 400,
+    "cliente": "cliente",
+    "propina": 10,
+    "desastre": {
+      "probabilidad": 10,
+      "perdida_max": 10,
+      "perdida_min": 5,
+      "despido": 12,
+      "quiebra": 3,
+      "accidente": 16,
+      "baja_max": 3,
+      "baja_min": 1,
+      "invalidez": 0
+    }
+  },
+  "camarero": {
+    "sueldo": 400,
+    "cliente": "cliente",
+    "propina": 20,
+    "desastre": {
+      "probabilidad": 15,
+      "perdida_max": 20,
+      "perdida_min": 5,
+      "despido": 13,
+      "quiebra": 7,
+      "accidente": 16,
+      "baja_max": 3,
+      "baja_min": 1,
+      "invalidez": 0
+    }
+  },
+  "basurero": {
+    "sueldo": 400,
+    "propina": 0,
+    "desastre": {
+      "probabilidad": 30,
+      "perdida_max": 20,
+      "perdida_min": 0,
+      "despido": 6,
+      "quiebra": 1,
+      "accidente": 24,
+      "baja_max": 4,
+      "baja_min": 2,
+      "invalidez": 3
+    }
+  },
+  "carpintero": {
+    "sueldo": 500,
+    "cliente": "cliente",
+    "propina": 1,
+    "desastre": {
+      "probabilidad": 20,
+      "perdida_max": 50,
+      "perdida_min": 10,
+      "despido": 5,
+      "quiebra": 1,
+      "accidente": 29,
+      "baja_max": 4,
+      "baja_min": 1,
+      "invalidez": 2
+    }
+  },
+  "mecanico": {
+    "sueldo": 800,
+    "cliente": "cliente",
+    "propina": 10,
+    "desastre": {
+      "probabilidad": 20,
+      "perdida_max": 100,
+      "perdida_min": 10,
+      "despido": 5,
+      "quiebra": 5,
+      "accidente": 27,
+      "baja_max": 5,
+      "baja_min": 1,
+      "invalidez": 3
+    }
+  },
+  "electricista": {
+    "sueldo": 1000,
+    "cliente": "cliente",
+    "propina": 20,
+    "desastre": {
+      "probabilidad": 15,
+      "perdida_max": 30,
+      "perdida_min": 5,
+      "despido": 5,
+      "quiebra": 2,
+      "accidente": 22,
+      "baja_max": 3,
+      "baja_min": 0,
+      "invalidez": 2
+    }
+  },
+  "fontanero": {
+    "sueldo": 1000,
+    "cliente": "cliente",
+    "propina": 20,
+    "desastre": {
+      "probabilidad": 10,
+      "perdida_max": 30,
+      "perdida_min": 5,
+      "despido": 5,
+      "quiebra": 1,
+      "accidente": 20,
+      "baja_max": 3,
+      "baja_min": 0,
+      "invalidez": 1
+    }
+  },
+  "policia": {
+    "sueldo": 1200,
+    "cliente": "ciudadano",
+    "propina": 0,
+    "desastre": {
+      "probabilidad": 7,
+      "perdida_max": 1000,
+      "perdida_min": 100,
+      "despido": 3,
+      "quiebra": 0,
+      "accidente": 37,
+      "baja_max": 9,
+      "baja_min": 1,
+      "invalidez": 5
+    }
+  },
+  "doctor": {
+    "sueldo": 1500,
+    "cliente": "paciente",
+    "propina": 0,
+    "desastre": {
+      "probabilidad": 8,
+      "perdida_max": 60000,
+      "perdida_min": 1000,
+      "despido": 2,
+      "quiebra": 0,
+      "accidente": 9,
+      "baja_max": 4,
+      "baja_min": 1,
+      "invalidez": 0
+    }
+  },
+  "informatico": {
+    "sueldo": 1800,
+    "cliente": "cliente",
+    "propina": 0,
+    "desastre": {
+      "probabilidad": 18,
+      "perdida_max": 2000,
+      "perdida_min": 10,
+      "despido": 10,
+      "quiebra": 9,
+      "accidente": 6,
+      "baja_max": 3,
+      "baja_min": 1,
+      "invalidez": 6
+    }
+  },
+  "ingeniero": {
+    "sueldo": 2000,
+    "cliente": "cliente",
+    "propina": 0,
+    "desastre": {
+      "probabilidad": 7,
+      "perdida_max": 10000,
+      "perdida_min": 500,
+      "despido": 10,
+      "quiebra": 3,
+      "accidente": 2,
+      "baja_max": 2,
+      "baja_min": 1,
+      "invalidez": 0
+    }
+  },
+  "programador_bots": {
+    "sueldo": 1,
+    "cliente": "usuario",
+    "propina": 0,
+    "desastre": {
+      "probabilidad": 70,
+      "perdida_max": 100,
+      "perdida_min": 50,
+      "despido": 60,
+      "quiebra": 40,
+      "accidente": 40,
+      "baja_max": 5,
+      "baja_min": 2,
+      "invalidez": 9
+    }
+  },
+  "invalido": {
+    "sueldo": 700,
+    "propina": 0,
+    "desastre": {
+      "probabilidad": 0,
+      "perdida_max": 0,
+      "perdida_min": 0,
+      "despido": 0,
+      "quiebra": 0,
+      "accidente": 0,
+      "baja_max": 0,
+      "baja_min": 0,
+      "invalidez": 0
+    }
+  }
+}

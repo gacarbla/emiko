@@ -1,0 +1,402 @@
+{
+    "10": {
+        "title": "ERRORES",
+        "description": "Categoría de errores: Errores de valores otorgados"
+    },
+    "11": {
+        "title": "VALOR INEXISTENTE",
+        "description": "No se ha especificado un campo necesario para la ejecución del código"
+    },
+    "12": {
+        "title": "FOMRATO DE VALOR INVÁLIDO",
+        "description": "El formato del valor que el solicitante ha otorgado no es apto para el campo"
+    },
+    "13": {
+        "title": "NÚMERO INFERIOR AL PERMITIDO",
+        "description": "El valor numérico ofrecido es menor del mínimo establecido"
+    },
+    "14": {
+        "title": "NÚMERO SUPERIOR AL PERMITIDO",
+        "description": "El valor numérico ofrecido es mayor del máximo establecido"
+    },
+    "15": {
+        "title": "NÚMERO NO APTO",
+        "description": "El valor numérico ofrecido no es apto para el campo"
+    },
+    "16": {
+        "title": "VALOR NO VÁLIDO",
+        "description": "El valor alfanumérico ofrecido no es apto para el campo"
+    },
+    "17": {
+        "title": "VALOR NO RECONOCIDO",
+        "description": "No se ha reconocido el valor alfanumérico"
+    },
+    "18": {
+        "title": "VALOR INCORRECTO",
+        "description": "El valor que se ha otorgado es incorrecto."
+    },
+    "19": {
+        "title": "VALOR NO VÁLIDO",
+        "description": "Por algún extraño motivo, este error no ha sido aceptado por el código"
+    },
+    "20": {
+        "title": "ERRORES",
+        "description": "Categoría de errores: Errores referentes al uso de slash commands"
+    },
+    "21": {
+        "title": "FALLO CATASTRÓFICO",
+        "description": "Por alguna razón ninguno de los slash commands fuciona.\nSi obtienes este error significa que nuestro equipo ya está trabajando para solucionarlo."
+    },
+    "22": {
+        "title": "SLASH COMMAND INEXISTENTE",
+        "description": "Si recives este error significa que el slash command que has usado no existe."
+    },
+    "23": {
+        "title": "SLASH COMMAND BORRADO",
+        "description": "Este error se mostrará ante ti si el slash command ha sido borrado"
+    },
+    "24": {
+        "title": "SLASH COMMAND RENOMBRADO",
+        "description": "Aparecerá este error siempre que podamos indicar que un slash command ha sido renombrado.\nSi no podemos, se mostrará el `ERROR 23`"
+    },
+    "25": {
+        "title": "SLASH COMMAND MOVIDO",
+        "description": "Si hemos movido un comando slash de una categoría a otra y podemos, intentaremos mostrar este error.\nSi no podemos, se mostrará el `ERROR 23`"
+    },
+    "26": {
+        "title": "SLASH COMMAND BAJO MANTENIMIENTO",
+        "description": "Si ves este error, nuestro equipo está actualmente trabajando en esto.\nSi tienes alguna queja no dudes en usar `/sugerencias` para indicarla indicándonos qué tenemos que mejorar."
+    },
+    "27": {
+        "title": "SLASH COMMAND CERRADO TEMPORALMENTE",
+        "description": "Obtendrás este error si hemos cerrado el comando.\nPodría darse en caso de que un comando pueda ser hackeable o de que no funcione como debería y ahora no podemos solucionarlo.\nEn cualquier caso estaremos pensando cómo solucionarlo."
+    },
+    "28": {
+        "title": "SLASH COMMAND BLOQUEADO POR LA ADMINISTRACIÓN",
+        "description": "Este \"error\" lo podrás ver si un admin del servidor ha desactivado el comando."
+    },
+    "29": {
+        "title": "RECARGA INCOMPLETA",
+        "description": "Ha sido imposible recargar los slash commands por algún motivo"
+    },
+    "30": {
+        "title": "ERRORES",
+        "description": "Categoría de errores: Errores referentes a enlaces"
+    },
+    "31": {
+        "title": "ENLACE INEXISTENTE",
+        "description": "El bot ha intentado acceder a un comando pero no lo ha encontrado.\nSi esto sucede informe urgentemente al dueño a través del comando error"
+    },
+    "32": {
+        "title": "ENLACE INEXISTENTE",
+        "description": "El bot ha intentado acceder a un comando pero la sintaxis no era correcta.\nSi esto sucede informe urgentemente al dueño a través del comando error"
+    },
+    "33": {
+        "title": "ENLACE INEXISTENTE",
+        "description": "No sabemos explicar porqué, pero no ha funcionado.\nSi esto sucede informe urgentemente al dueño a través del comando error"
+    },
+    "34": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "35": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "36": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "37": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "38": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "39": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "40": {
+        "title": "ERRORES",
+        "description": "Categoría de errores: Errores referentes a permisos"
+    },
+    "41": {
+        "title": "PERMISOS INSUFICIENTES",
+        "description": "El solicitante no posee los permisos necesarios para ejecutar esta acción"
+    },
+    "42": {
+        "title": "PERMISOS INSUFICIENTES",
+        "description": "El bot no posee los permisos necesarios para ejecutar esta acción"
+    },
+    "43": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "44": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "45": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "46": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "47": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "48": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "49": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "50": {
+        "title": "ERRORES",
+        "description": "Categoría de errores: Errores referentes al solicitante"
+    },
+    "51": {
+        "title": "SOLICITANTE NO EXISTE",
+        "description": "** **"
+    },
+    "52": {
+        "title": "SOLICITANTE ES UN BOT",
+        "description": "** **"
+    },
+    "53": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "54": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "55": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "56": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "57": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "58": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "59": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "60": {
+        "title": "ERRORES",
+        "description": "Categoría de errores: Errores referentes al servidor"
+    },
+    "61": {
+        "title": "Servidor no encontrado",
+        "description": "El bot no ha encontrado el servidor.\nRecuerde que el bot **NO CONTESTA POR PRIVADO**.\nSi este error persiste y no está usted hablándole por privado infórmelo mediante el comando error"
+    },
+    "62": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "63": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "64": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "65": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "66": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "67": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "68": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "69": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "70": {
+        "title": "ERRORES",
+        "description": "Categoría de errores: Errores referentes a bases de datos"
+    },
+    "71": {
+        "title": "BASE DE DATOS NO ENCONTRADA",
+        "description": "El bot no ha encontrado la base de datos en la que debe almacenar un dato"
+    },
+    "72": {
+        "title": "BASE DE DATOS CORROMPIDA",
+        "description": "Alguna clase de error ha hecho imposible acceder al dato"
+    },
+    "73": {
+        "title": "BASE DE DATOS CORROMPIDA",
+        "description": "Alguna clase de error ha hecho imposible guardar el dato"
+    },
+    "74": {
+        "title": "DATO NO ENCONTRADO",
+        "description": "No ha sido posible para el bot acceder a un dato porque no existe"
+    },
+    "75": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "76": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "77": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "78": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "79": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "80": {
+        "title": "ERRORES",
+        "description": "Categoría de errores: "
+    },
+    "81": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "82": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "83": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "84": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "85": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "86": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "87": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "88": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "89": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "90": {
+        "title": "ERRORES",
+        "description": "Categoría de errores: "
+    },
+    "91": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "92": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "93": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "94": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "95": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "96": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "97": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "98": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "99": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "0": {
+        "title": "ERRORES",
+        "description": "Categoría de errores: Errores raros"
+    },
+    "1": {
+        "title": "Algo ha salido mal",
+        "description": "Se ha producido un error no registrado en el bot"
+    },
+    "2": {
+        "title": "Error en la API de Visage",
+        "description": "El bot no ha sido capaz a obtener la skin del usuario porque Visage ha tardado demasiado en responder."
+    },
+    "3": {
+        "title": "Error en la API de Instagram",
+        "description": "** **"
+    },
+    "4": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "5": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "6": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "7": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "8": {
+        "title": "Este código de error no ha sido establecido",
+        "description": "** **"
+    },
+    "9": {
+        "title": "EL COMANDO HA FALLADO",
+        "description": "Si obtienes este código de error, es que ha fallado el comando y se ha reportado el desarrollador para que se solucione.\nEn unas pocas horas estará solucionado."
+    }
+}

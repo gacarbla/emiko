@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.6.0",
+    "canvas": "^2.8.0",
+    "discord-together": "^1.1.53",
+    "discord.js": "^13.3.1",
+    "mal-scraper": "^2.11.3",
+    "megadb": "^3.4.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "rgb2hex": "^0.2.5",
+    "superagent": "^6.1.0"
+  }
+}

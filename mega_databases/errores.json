@@ -1,0 +1,250 @@
+{
+  "01": {
+    "title": "Error desconocido",
+    "description": "El bot ha sufrido un error y no ha podido identificarlo.\nEn este caso se le enviará un mensaje a los desarrolladores para que lo encuentren y exterminen."
+  },
+  "02": {
+    "title": "Error de conexión con la API de Discord",
+    "description": "El bot no ha sido capaz a establecer una conexión estable con la API de Discord."
+  },
+  "03": {
+    "title": "Error de conexión con la API de Visage",
+    "description": "El bot no ha sido capaz a establecer una conexión estable con la API de Visage."
+  },
+  "04": {
+    "title": "Error de conexión con la API de MyAnimeList",
+    "description": "El bot no ha sido capaz a establecer una conexión estable con la API de MyAnimeList."
+  },
+  "05": {
+    "title": "Error al enviar el mensaje",
+    "description": "Revisa los permisos del bot y los ajustes del canal, podría tratarse de un error causado por esto. Si el error persiste repórtelo."
+  },
+  "11": {
+    "title": "No se ha obtenido el valor correctamente",
+    "description": "El bot ha intentado obtener el valor que le has otorgado, pero noha sido capaz a pesar de ser un valor correcto.\nVuelva a probarlo más tarde, y si el error persiste contacte con el desarrollador."
+  },
+  "12": {
+    "title": "El valor obtenido se ha corrompido",
+    "description": "El valor que había obtenido el bot ha sufrido una modificación maliciosa que ahora impide su uso.\nVuelve a intentarlo más tarde."
+  },
+  "13": {
+    "title": "No ha sido posible entender el valor",
+    "description": "Has utilizado un valor que el bot no entiende o no logra descifrar y por lo tanto no puede realizar su trabajo."
+  },
+  "21": {
+    "title": "Valor no válido",
+    "description": "El valor que has introducido no es válido para esta acción.\nSe suele dar en casos en el que se solicita la mención de un canal de texto si mencionas un canal de voz o una categoría."
+  },
+  "22": {
+    "title": "Esto no es un número",
+    "description": "El valor que has introducido no es un número y el bot te ha solicitado un número, este valor no es válido."
+  },
+  "23": {
+    "title": "Este número es muy grande",
+    "description": "Has utilizado un número más grande de lo permitido con lo que el bot no puede ejecutar la acción correctamente."
+  },
+  "24": {
+    "title": "Este número es muy pequeño",
+    "description": "Has utilizado un número más pequeño de lo permitido con lo que el bot no puede ejecutar la acción correctamente."
+  },
+  "25": {
+    "title": "Esto no es un texto",
+    "description": "El valor que has introducido no es un texto y el bot ha solicitado un texto, este valor no es válido."
+  },
+  "26": {
+    "title": "El texto es muy largo",
+    "description": "El texto que has introducido tiene una longitud mayor a la permitida por lo que no se puede llevar a cabo la acción solicitada."
+  },
+  "27": {
+    "title": "El texto es muy corto",
+    "description": "El texto que has introducido tiene una longitud menor a la requerida por lo que no se puede llevar a cabo la acción solicitada."
+  },
+  "28": {
+    "title": "Has introducido caracteres no aceptados",
+    "description": "El texto que has introducido contiene caracteres que el bot no admite."
+  },
+  "29": {
+    "title": "Has usado palabras no aceptadas",
+    "description": "El texto que has introducido contiene palabras que se encuentran en la \"lista negra\" del bot y por lo tanto no se puede llevar a cabo la acción solicitada."
+  },
+  "31": {
+    "title": "No se ha encontrado la base de datos",
+    "description": "El bot ha intentado acceder a una base de datos pero no la encuentra."
+  },
+  "32": {
+    "title": "La base de datos está corrompida",
+    "description": "El bot ha accedido a la base de datos pero esta contiene valores sospechosos o estropeados con lo que por seguridad ha cancelado el proceso."
+  },
+  "33": {
+    "title": "El valor no existe",
+    "description": "El bot no ha encontrado en la base de datos el valor necesario para llevar a cabo la acción."
+  },
+  "34": {
+    "title": "No ha sido posible acceder a la base de datos",
+    "description": "Por algún motivo el bot no ha sido capaz a entablar una conexión estable con la base de datos."
+  },
+  "35": {
+    "title": "El valor está vacío",
+    "description": "El bot ha accedido a la base de datos y buscado el dato necesario pero... Vaya, no había nada"
+  },
+  "36": {
+    "title": "No se ha podido guardar el dato",
+    "description": "El bot ha intentado guardar un dato en la base de datos pero no ha sido capaz."
+  },
+  "37": {
+    "title": "No se ha podido obtener el dato",
+    "description": "El bot ha intentado obtener el valor de un dato pero algo ha fallado y no ha podido."
+  },
+  "38": {
+    "title": "No se ha podido modificar el dato",
+    "description": "El bot ha intentado modificar un valor de la base de datos pero no ha sido capaz."
+  },
+  "39": {
+    "title": "No se ha podido eliminar el dato",
+    "description": "El bot ha intentado eliminar un valor de la base de datos pero algo ha salido mal."
+  },
+  "41": {
+    "title": "No ha sido posible leer los permisos",
+    "description": "El bot ha intentado obtener los permisos del usuario pero no ha sido capaz y por seguridad del comando ha cancelado la acción."
+  },
+  "42": {
+    "title": "El usuario no posee los permisos necesarios",
+    "description": "Este comando require de permisos específicos que el usuario no posee y por ende no se le permite su uso."
+  },
+  "43": {
+    "title": "El bot no posee los permisos necesarios",
+    "description": "El bot no posee los permisos necesarios para realizar esta acción.\nRecomendamos otorgarle al bot el permiso de administrador, aún que cada servidor puede decidirlo individualmente al tratarse se un asunto de seguridad."
+  },
+  "44": {
+    "title": "No tienes permiso para realizar esta acción",
+    "description": "Al usuario solicitante le han negado la posibilidad de utilizar este comando por algún motivo."
+  },
+  "45": {
+    "title": "Los bots no tienen permiso para usar comandos",
+    "description": "Los bots no pueden usar comandos, por motivos de seguridad."
+  },
+  "46": {
+    "title": "No tienes permiso para usar comandos por privado",
+    "description": "Este bot no admite el uso de comandos por privado, tenga el usuario o no los permisos necesarios."
+  },
+  "47": {
+    "title": "Un administrador te ha quitado el permiso de uso de este comando",
+    "description": "Un administrador ha marcado que uno de tus roles tiene prohibido usar este comando."
+  },
+  "48": {
+    "title": "Sólo desarolladores pueden usar este comando",
+    "description": "Este es un comando restringido para desarrolladores.\nPuede tratarse de una versión de prueba de un futuro comando o de un comando de gestión del bot."
+  },
+  "49": {
+    "title": "El bot así no puede trabajar",
+    "description": "El bot ha detectado que no posee los permisos mínimos necesarios para poder ejercer su labor en el servidor."
+  },
+  "51": {
+    "title": "No se ha encontrado el canal",
+    "description": "El bot no ha sido capaz de encontrar el canal que le has especificado"
+  },
+  "52": {
+    "title": "No se puede acceder al canal",
+    "description": "El bot no ha sido capaz de acceder al canal que les has especificado"
+  },
+  "53": {
+    "title": "No se pueden enviar mensajes en este canal",
+    "description": "El bot ha intentado enviar un mensaje en este canal pero no posee los permisos necesarios"
+  },
+  "54": {
+    "title": "No se puede conectar al canal de voz",
+    "description": "El bot ha intentado conectarse a este canal de voz pero no posee los permisos necesarios"
+  },
+  "55": {
+    "title": "Esto no es un canal de texto",
+    "description": "Se esperaba un canal de texto"
+  },
+  "56": {
+    "title": "Esto no es un canal de voz",
+    "description": "Se esperaba un canal de voz"
+  },
+  "57": {
+    "title": "Esto no es un canal de anuncios",
+    "description": "Se esperaba un canal de anuncios"
+  },
+  "58": {
+    "title": "Esto no es un canal de escenario",
+    "description": "Se esperaba un canal de escenario"
+  },
+  "59": {
+    "title": "El canal ha sido eliminado",
+    "description": "El canal al que el bot intenta acceder ya no existe"
+  },
+  "91": {
+    "title": "No se ha encontrado el módulo",
+    "description": "Se ha intentado buscar el módulo pero no ha sido posible. Algo muy raro ha pasado"
+  },
+  "92": {
+    "title": "El módulo es inaccesible",
+    "description": "No es posible acceder al módulo por un problema de programación.\nAhora mismo estoy redactando un informe de lo sucedido para solucionarlo."
+  },
+  "97": {
+    "title": "No ha sido posible habilitar el módulo",
+    "description": "Se ha intentado habilitar el módulo pero no hay forma.\nSolicitaré ayuda a un equipo especializado para solucionar esto.\nMantente alerta, probablemente contacte contigo uno de mis desarolladores."
+  },
+  "98": {
+    "title": "No ha sido posible deshabilitar el módulo",
+    "description": "Se ha intentado deshabilitar el módulo pero no hay forma.\nSolicitaré ayuda a un equipo especializado para solucionar esto.\nMantente alerta, probablemente contacte contigo uno de mis desarolladores."
+  },
+  "101": {
+    "title": "El comando no existe",
+    "description": "El comando que has intentado usar no existe o no ha sido reconocido correctamente."
+  },
+  "102": {
+    "title": "El comando se está reformando",
+    "description": "Este comando está cerrado de forma temporal con motivo de una \"reforma\" en su código."
+  },
+  "103": {
+    "title": "Este comando aún no está terminado",
+    "description": "Este comando aún se encuentra en fase de pruebas y es sumamente inestable, con lo que por su seguridad, hemos limitado el acceso a sólo desarrolladores."
+  },
+  "104": {
+    "title": "Este comando no responde",
+    "description": "El bot ha intentado ejecutar el comando pero no ha sido posible."
+  },
+  "109": {
+    "title": "No ha sido posible recargar los comandos slash",
+    "description": "El bot ha intentado recargar los comandos slash pero no ha sido capaz por un error en el código."
+  },
+  "111": {
+    "title": "Un desarrollador ha añadido este servidor a la blacklist",
+    "description": "Un desarrollador ha indicado que este servidor no cumple con los términos y condiciones de uso del bot y/o de discord, por ende ha bloqueado todas las funciones del bot"
+  },
+  "112": {
+    "title": "Un desarrollador te ha añadido a la blacklist",
+    "description": "Un desaroolador ha indicado que este usuario no cumple con los términos y condiciones de uso del bot y/o de discord, por ende ha bloqueado todas las funciones del bot"
+  },
+  "113": {
+    "title": "Has sido penalizad@. Espera para poder volver a usar comandos",
+    "description": "Un desarrollador o el auto-moderador del bot te han penalizado y no puedes usar comandos de forma temporal."
+  },
+  "114": {
+    "title": "Has sido penalizad@. No puedes usar esta categoría de comandos",
+    "description": "Un desarrollador o el auto-moderador del bot te han penalizado y se te ha prohibido el uso de esta categoría."
+  },
+  "115": {
+    "title": "Has sido penalizad@. No puedes usar esta categoría de comandos temporalmente",
+    "description": "Un desarrollador o el auto-moderador del bot te han penalizado y se te ha prohibido el uso de esta categoría temporalmente."
+  },
+  "116": {
+    "title": "Has sido penalizad@. No puedes reportar errores",
+    "description": "Un desarrollador o el auto-moderador del bot te han penalizado y se te ha prohibido reportar errores."
+  },
+  "117": {
+    "title": "Has sido penalizad@. No puedes enviar sugerencias",
+    "description": "Un desarrollador o el auto-moderador del bot te han penalizado y se te ha prohibido enviar sugerencias."
+  },
+  "121": {
+    "title": "La administración de este servidor te ha añadido a la blcklist",
+    "description": "Algún administrador o administradora ha subministrado tu ID y te ha declarado como una persona no deseada.\nNo tendrás permiso para verificarte en este servidor y no podrás enviar mensajes.\nSi deseas ser retirado de la blacklist solicíteselo a un miembro de la administración."
+  },
+  "999": {
+    "title": "FALLO CATASTRÓFICO || AUTODESTRUCCIÓN INMEDIATA",
+    "description": "[Nota del creador]\nPersonalmente espero que este error nunca llegue a aparecer.\nEste fallo indicaría que el bot ha sido hackeado y sus funciones están en peligro inminente.\nPor la seguridad de todos los servidores a los que el bot sirve, de darse este error, el bot se autodestruirá guardando una copia de seguridad en lugar seguro, para una vez solucionada la incidencia, y estando el servidor a salvo, poder retomar su actividad."
+  }
+}

@@ -1,0 +1,9 @@
+*.env
+*.bat
+*.cmd
+*.config
+*.xlms
+*.xls
+*xlsx
+/node_modules
+package-lock.json

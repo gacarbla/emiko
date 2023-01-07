@@ -1,0 +1,1 @@
+obter canles dun servidor: client.guilds.resolve(id).channels.cache.map(canales => canales.name)
